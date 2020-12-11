@@ -1,14 +1,14 @@
 # code-refactor
 
-# Github Repo
+# github-Repo
 
 https://github.com/epmjj4/code-refactor
 
-# Github Live Server
+# github-Live-Server
 
 https://epmjj4.github.io/code-refactor
 
-# Screenshot
+# screenshot
 ![](assets/images/github-screenshot.png)
 
 
