@@ -1,4 +1,17 @@
 # code-refactor
+
+# Github Live Server
+
+https://github.com/epmjj4/code-refactor
+
+# Github Repo
+
+https://epmjj4.github.io/code-refactor
+
+# Screenshot
+![](assets/images/epmjj4.github.io/code-refactor)
+
+
 I renamed the div tags in the HTML file to give it more meaning and cleaned up the CSS file as it was a bit repetetive. Here is a list of the changes I have made. 
 
 Here is a list of changes that I made to the index.HTML file:
