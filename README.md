@@ -1,20 +1,27 @@
 # code-refactor
+I renamed the div tags in the HTML file to give it more meaning and cleaned up the CSS file as it was a bit repetetive. Here is a list of the changes I have made. 
+
 Here is a list of changes that I made to the index.HTML file:
+
 1 - Updated the title to the company name.
 
-2- Added nav tags to the header.
+2- Removed class from Span and targeted Span element.
 
-3- Changed div tags to section tags.
+3- Added nav tags to the header.
 
-4- Changed div tags to summary tags.
+4- Changed div to main and removed contents class and targeted main element.
 
-5- The search-engine-optimization link was broken because it had no id, added id.
+5- Changed div tags to main tags.
 
-6- changed div tags to aside tag.
+6- Changed div tags to section tags.
 
-7- changed div tags to summary tags.
+7- The search-engine-optimization link was broken because it had no id, added id.
 
-8- added footer tag
+8- changed div tags to aside tag.
+
+9- changed div tags to summary tags.
+
+9- added footer tag
 
 Here is a list of changes that I made to the style.css file:
 1- Changed font-size on p tags from 16px to 20px.
