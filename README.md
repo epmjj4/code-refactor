@@ -1,15 +1,15 @@
 # code-refactor
 
-# Github Live Server
+# Github Repo
 
 https://github.com/epmjj4/code-refactor
 
-# Github Repo
+# Github Live Server
 
 https://epmjj4.github.io/code-refactor
 
 # Screenshot
-![](assets/images/epmjj4.github.io/code-refactor)
+![](assets/images/github-screenshot.png)
 
 
 I renamed the div tags in the HTML file to give it more meaning and cleaned up the CSS file as it was a bit repetetive. Here is a list of the changes I have made. 
